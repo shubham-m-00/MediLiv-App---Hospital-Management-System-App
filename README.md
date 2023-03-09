@@ -32,13 +32,13 @@ Admin Features
 
     Admin can access all Details along with specific Doctor, User/patient details using admin Credentials.
 
-Customer Features
+Patient Features
 
     Patient can login in the application and update their information using their mobile number and password.
     Patient can book appointment using dare,time and day as peer their comfort.
     Patient can change or update their password if he want.
 
-Cab Driver features
+Doctor features
 
     Doctor can login in the application and update their information check patient appointment..
     Doctor can add and update their profile anyytime by their end.
@@ -103,10 +103,7 @@ About
 
 
 Languages
-
     Java 100.0% 
     Servlet 60.0%
     Jsp & Css for front end.100.0%
-
-
-
+    
